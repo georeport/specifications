@@ -1,0 +1,2 @@
+# specifications
+Georeport specifications
